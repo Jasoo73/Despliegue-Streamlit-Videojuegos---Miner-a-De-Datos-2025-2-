@@ -1,1 +1,1 @@
-# Despliegue-Streamlit-Videojuegos---Miner-a-De-Datos-2025-2-
+# Despliegue-Streamlit-Videojuegos---Minería-De-Datos-2025-2-
